@@ -1,6 +1,6 @@
 # Análise Preditiva de Matrículas do Censo Escolar
 
-Este projeto consiste em um pipeline de Machine Learning robusto para analisar os microdados do Censo da Educação Básica do INEP. O objetivo principal é prever o número de matrículas para diferentes etapas de ensino (ex: Creche, Ensino Fundamental, Ensino Médio) com base em dados históricos.
+Este projeto consiste em um script de Machine Learning para analisar os microdados do Censo da Educação Básica do INEP. O objetivo principal é prever o número de matrículas para diferentes etapas de ensino (ex: Creche, Ensino Fundamental, Ensino Médio) com base em dados históricos.
 
 O script foi projetado para ser eficiente em termos de memória e processamento, utilizando técnicas como otimização de tipos de dados e paralelismo massivo para lidar com grandes volumes de dados.
 
