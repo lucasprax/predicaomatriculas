@@ -126,7 +126,7 @@ Este método é ideal para automação e para rodar o processo completo de uma s
     Use o comando abaixo para executar todas as células do notebook do início ao fim e salvar os resultados no próprio arquivo.
 
     ```bash
-    jupyter nbconvert --to notebook --execute --inplace predicaomatriculas.ipynb
+    jupyter nbconvert --to notebook --execute --inplace PREDICAO_MATRICULAS.ipynb
     ```
     - `--execute`: Executa o notebook.
     - `--inplace`: Salva os outputs (resultados, gráficos) diretamente no arquivo original.
@@ -153,7 +153,7 @@ Este método é excelente para desenvolvimento interativo, permitindo executar o
     - Escolha o interpretador que contém `('.venv')`. Isso garante que o VS Code use as bibliotecas que você instalou no ambiente virtual.
 
 4.  **Abra e Execute o Notebook:**
-    - Na árvore de arquivos à esquerda, clique no arquivo `predicaomatriculas.ipynb`.
+    - Na árvore de arquivos à esquerda, clique no arquivo `PREDICAO_MATRICULAS.ipynb`.
     - O VS Code abrirá o notebook em uma interface interativa.
     - Para executar o projeto inteiro, clique no botão **"Run All"** (ícone de duas setas) na barra de ferramentas superior do notebook.
     - Você também pode executar cada célula individualmente clicando no ícone de "Play" que aparece à esquerda de cada célula.
